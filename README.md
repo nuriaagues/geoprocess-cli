@@ -1,2 +1,6 @@
 # geoprocess-cli
-This is a production-style Python CLI tool that:  accepts GeoTIFF / COG, expands bounding box, reprojects if needed, cuts tiles, saves outputs, logs everything, has tests, and runs in Docker.
+
+A production-style Python CLI tool for processing GeoTIFF / COG data:
+reprojection, bounding box expansion, and tiling.
+
+🚧 Work in progress.
